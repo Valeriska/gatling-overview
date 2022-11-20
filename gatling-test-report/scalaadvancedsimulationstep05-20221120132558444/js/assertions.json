@@ -1,0 +1,10 @@
+{
+  "simulation": "gatling.tests.advanced.ScalaAdvancedSimulationStep05",
+  "simulationId": "scalaadvancedsimulationstep05-20221120132558444",
+  "start": 1668950759197,
+  "description": "",
+  "scenarios": ["Users", "Admins"],
+  "assertions": [
+
+  ]
+}

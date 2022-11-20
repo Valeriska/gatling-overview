@@ -1,0 +1,10 @@
+{
+  "simulation": "gatling.tests.TestAPI",
+  "simulationId": "testapi-20221120132644947",
+  "start": 1668950805609,
+  "description": "",
+  "scenarios": ["Get Request"],
+  "assertions": [
+
+  ]
+}
